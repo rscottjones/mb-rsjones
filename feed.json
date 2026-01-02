@@ -7,10 +7,52 @@
 	"items": [
 		
 			{
+				"id": "http://rscottjones.micro.blog/2026/01/02/the-rains-in-afffrica-otd/",
+				
+				"content_html": "<p>&ldquo;&hellip;the rains in Afffrica&rdquo; - OTD during last year&rsquo;s 100-day adventure.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"...the rains in Afffrica\" - OTD during last year's 100-day adventure.\n\n<img src=\"uploads/2026/497a3b1406.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-01-02T07:06:03-07:00",
+				"url": "https://rsjon.es/2026/01/02/the-rains-in-afffrica-otd/",
+				"tags": ["On This Day"]
+			},
+			{
+				"id": "http://rscottjones.micro.blog/2026/01/02/building-out-jens-new-travelfocused/",
+				
+				"content_html": "<p>Building out <a href=\"https://jenwiles.com\">Jen&rsquo;s new travel-focused micro.blog site</a> has given me a ton of FOMO about my own sites. Currently rethinking my plans&hellip;</p>\n",
+				"content_text": "Building out [Jen's new travel-focused micro.blog site](https://jenwiles.com) has given me a ton of FOMO about my own sites. Currently rethinking my plans...\n",
+				"date_published": "2026-01-02T07:05:10-07:00",
+				"url": "https://rsjon.es/2026/01/02/building-out-jens-new-travelfocused/"
+			},
+			{
+				"id": "http://rscottjones.micro.blog/2026/01/01/interesting-post-on-instagrams-yearend/",
+				
+				"content_html": "<p><a href=\"https://om.co/2026/01/01/what-is-instagrams-adam-mosseri-really-saying-in-his-year-end-memo/\">Interesting post on Instagram&rsquo;s year-end memo</a>. The future returns to the individual—there&rsquo;s never been a better time to have your <em>own website</em> to post your stuff. Feeds are dying, as is virality + influencer-status (thank fucking goodness!). Let&rsquo;s abandon social <em>media</em> and return to social <em>networking</em>.</p>\n",
+				"content_text": "[Interesting post on Instagram's year-end memo](https://om.co/2026/01/01/what-is-instagrams-adam-mosseri-really-saying-in-his-year-end-memo/). The future returns to the individual—there's never been a better time to have your _own website_ to post your stuff. Feeds are dying, as is virality + influencer-status (thank fucking goodness!). Let's abandon social _media_ and return to social _networking_.\n",
+				"date_published": "2026-01-01T17:12:16-07:00",
+				"url": "https://rsjon.es/2026/01/01/interesting-post-on-instagrams-yearend/",
+				"tags": ["Shared links"]
+			},
+			{
+				"id": "http://rscottjones.micro.blog/2026/01/01/its-january-which-means-its/",
+				
+				"content_html": "<p>It&rsquo;s January 1, which means it&rsquo;s time to grab your <a href=\"http://permit.preventwildfiresca.org/\">2026 Campfire Permit</a>. <strong>You need one to have a campfire <em>or</em> use a gas/propane stove on public lands in California</strong>.</p>\n<p>It&rsquo;s free and takes 5 mins to complete—watch a short video, answer a stupid easy quiz—so just click the link to get it done right now.</p>\n",
+				"content_text": "It's January 1, which means it's time to grab your [2026 Campfire Permit](http://permit.preventwildfiresca.org/). **You need one to have a campfire _or_ use a gas/propane stove on public lands in California**.\n\nIt's free and takes 5 mins to complete—watch a short video, answer a stupid easy quiz—so just click the link to get it done right now.\n",
+				"date_published": "2026-01-01T13:49:51-07:00",
+				"url": "https://rsjon.es/2026/01/01/its-january-which-means-its/"
+			},
+			{
+				"id": "http://rscottjones.micro.blog/2026/01/01/my-wife-jen-launched-her/",
+				
+				"content_html": "<p>My wife Jen launched her new travel blog today at <a href=\"https://jenwiles.com\">JenWiles.com</a>! She has most 2025 trips &amp; photos posted and will slowly add in prior years, too.</p>\n<p><strong>How to follow</strong></p>\n<ul>\n<li>\n<p>RSS: <a href=\"https://jenwiles.com/rss\">jenwiles.com/rss</a></p>\n</li>\n<li>\n<p>Email: <a href=\"https://jenwiles.com/email\">jenwiles.com/email</a></p>\n</li>\n<li>\n<p>Fediverse: <a href=\"https://micro.blog/jen@jenwiles.com\">@jen@jenwiles.com</a></p>\n</li>\n<li>\n<p>Bluesky: <a href=\"mailto:jen@jenwiles.com.ap.brid.gy\">jen@jenwiles.com.ap.brid.gy</a></p>\n</li>\n<li>\n<p>Micro.blog: <a href=\"https://micro.blog/jenwiles\">@jenwiles</a></p>\n</li>\n</ul>\n",
+				"content_text": "My wife Jen launched her new travel blog today at [JenWiles.com](https://jenwiles.com)! She has most 2025 trips & photos posted and will slowly add in prior years, too.\n\n**How to follow**\n\n* RSS: [jenwiles.com/rss](https://jenwiles.com/rss)\n\n* Email: [jenwiles.com/email](https://jenwiles.com/email)\n\n* Fediverse: [@jen@jenwiles.com](https://micro.blog/jen@jenwiles.com)\n\n* Bluesky: jen@jenwiles.com.ap.brid.gy\n\n* Micro.blog: [@jenwiles](https://micro.blog/jenwiles)\n",
+				"date_published": "2026-01-01T12:58:21-07:00",
+				"url": "https://rsjon.es/2026/01/01/my-wife-jen-launched-her/"
+			},
+			{
 				"id": "http://rscottjones.micro.blog/2026/01/01/dinner-in-malawi-otd-during/",
 				
 				"content_html": "<p>Dinner in Malawi - OTD during last year&rsquo;s 100-day adventure.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dinner in Malawi - OTD during last year's 100-day adventure.\n\n<img src=\"uploads/2026/6e6dc2a9a9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Dinner in Malawi - OTD during last year's 100-day adventure.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2026/6e6dc2a9a9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-01-01T07:16:00-07:00",
 				"url": "https://rsjon.es/2026/01/01/dinner-in-malawi-otd-during/",
 				"tags": ["On This Day"]
@@ -36,7 +78,7 @@
 				"id": "http://rscottjones.micro.blog/2025/12/31/buying-local-fruit-in-malawi/",
 				
 				"content_html": "<p>Buying local fruit in Malawi - OTD during last year&rsquo;s 100-day adventure.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Buying local fruit in Malawi - OTD during last year's 100-day adventure.\n\n<img src=\"uploads/2025/6419dfdb3d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Buying local fruit in Malawi - OTD during last year's 100-day adventure.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/6419dfdb3d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-12-31T15:13:01-07:00",
 				"url": "https://rsjon.es/2025/12/31/buying-local-fruit-in-malawi/",
 				"tags": ["On This Day"]
@@ -45,7 +87,7 @@
 				"id": "http://rscottjones.micro.blog/2025/12/30/hoping-to-put-this-to/",
 				
 				"content_html": "<p>Hoping to put this to good use in 2026, starting in January.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hoping to put this to good use in 2026, starting in January.\n\n<img src=\"uploads/2025/0cad33a4e0.jpg\" width=\"450\" height=\"600\" alt=\"An International Driving Permit issued in the USA is valid until January 15, 2026, and includes a note that it is not valid for driving in the United States.\">\n",
+				"content_text": "Hoping to put this to good use in 2026, starting in January.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/0cad33a4e0.jpg\" width=\"450\" height=\"600\" alt=\"An International Driving Permit issued in the USA is valid until January 15, 2026, and includes a note that it is not valid for driving in the United States.\">\n",
 				"date_published": "2025-12-30T15:35:49-07:00",
 				"url": "https://rsjon.es/2025/12/30/hoping-to-put-this-to/"
 			},
@@ -10475,8 +10517,8 @@
 			{
 				"id": "http://rscottjones.micro.blog/2017/12/03/hoping-to-make-a-return/",
 				
-				"content_html": "<p>Hoping to make a return visit to Alabama Hills in the springâso much to explore in the eastern Sierra!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hoping to make a return visit to Alabama Hills in the springâso much to explore in the eastern Sierra!\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/92a27f79b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Hoping to make a return visit to Alabama Hills in the spring—so much to explore in the eastern Sierra!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hoping to make a return visit to Alabama Hills in the spring—so much to explore in the eastern Sierra!\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/92a27f79b8.jpg\">\n",
 				"date_published": "2017-12-03T13:16:02-07:00",
 				"url": "https://rsjon.es/2017/12/03/hoping-to-make-a-return/"
 			},
@@ -11187,16 +11229,16 @@
 			{
 				"id": "http://rscottjones.micro.blog/2017/04/19/just-up-the-beeline-highway/",
 				
-				"content_html": "<p>Just up the Beeline Highway from the Four Peaks turnoffâspitting distance from metro Phoenix reallyâlies the Ballantine Trail. Yet for a great little trail just outside a metro area and right off a major highway, it remains a refuge from the crowds.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just up the Beeline Highway from the Four Peaks turnoffâspitting distance from metro Phoenix reallyâlies the Ballantine Trail. Yet for a great little trail just outside a metro area and right off a major highway, it remains a refuge from the crowds.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/242168b22a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Just up the Beeline Highway from the Four Peaks turnoff—spitting distance from metro Phoenix really—lies the Ballantine Trail. Yet for a great little trail just outside a metro area and right off a major highway, it remains a refuge from the crowds.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just up the Beeline Highway from the Four Peaks turnoff—spitting distance from metro Phoenix really—lies the Ballantine Trail. Yet for a great little trail just outside a metro area and right off a major highway, it remains a refuge from the crowds.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/242168b22a.jpg\">\n",
 				"date_published": "2017-04-19T02:03:07-07:00",
 				"url": "https://rsjon.es/2017/04/19/just-up-the-beeline-highway/"
 			},
 			{
 				"id": "http://rscottjones.micro.blog/2017/04/18/the-toadstools-in-grand-staircaseescalante/",
 				
-				"content_html": "<p>The Toadstools in Grand Staircase-Escalante National Monument feature some crazy rock formationsâand it&rsquo;s one of the most easily accessible hikes in one of our nation&rsquo;s most impressive national monuments.\nUnfortunately, some Utah politicians are doing their best to reduce the size of this amazing national monument. Check out suwa.org or wilderness.org for more information and to get involved in protecting one of our nation&rsquo;s crown jewels.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Toadstools in Grand Staircase-Escalante National Monument feature some crazy rock formationsâand it's one of the most easily accessible hikes in one of our nation's most impressive national monuments. \nUnfortunately, some Utah politicians are doing their best to reduce the size of this amazing national monument. Check out suwa.org or wilderness.org for more information and to get involved in protecting one of our nation's crown jewels.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/98c25e51cb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>The Toadstools in Grand Staircase-Escalante National Monument feature some crazy rock formations—and it&rsquo;s one of the most easily accessible hikes in one of our nation&rsquo;s most impressive national monuments.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Toadstools in Grand Staircase-Escalante National Monument feature some crazy rock formations—and it's one of the most easily accessible hikes in one of our nation's most impressive national monuments.\n\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/98c25e51cb.jpg\">\n",
 				"date_published": "2017-04-18T03:14:07-07:00",
 				"url": "https://rsjon.es/2017/04/18/the-toadstools-in-grand-staircaseescalante/"
 			},
@@ -11396,7 +11438,7 @@
 				"id": "http://rscottjones.micro.blog/2017/03/24/ever-wanted-to-safely-walk/",
 				
 				"content_html": "<p>Ever wanted to safely walk behind a roaring waterfall? Here&rsquo;s your chance—the falls at Horseshoe Lake are currently flowing! <a href=\"https://rscottjones.com/walking-behind-a-waterfall-at-horseshoe-dam/\">Here&rsquo;s my complete guide to visiting</a>, including driving directions, custom map, plus videos and photos of what you&rsquo;ll see. Located not far from metro Phoenix.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ever wanted to safely walk behind a roaring waterfall? Here's your chance—the falls at Horseshoe Lake are currently flowing! [Here's my complete guide to visiting](https://rscottjones.com/walking-behind-a-waterfall-at-horseshoe-dam/), including driving directions, custom map, plus videos and photos of what you'll see. Located not far from metro Phoenix.\n\n<img src=\"uploads/2025/8eefe3a316.jpg\">\n",
+				"content_text": "Ever wanted to safely walk behind a roaring waterfall? Here's your chance—the falls at Horseshoe Lake are currently flowing! [Here's my complete guide to visiting](https://rscottjones.com/walking-behind-a-waterfall-at-horseshoe-dam/), including driving directions, custom map, plus videos and photos of what you'll see. Located not far from metro Phoenix.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/8eefe3a316.jpg\">\n",
 				"date_published": "2017-03-24T06:12:05-07:00",
 				"url": "https://rsjon.es/2017/03/24/ever-wanted-to-safely-walk/"
 			},
@@ -11428,7 +11470,7 @@
 				"id": "http://rscottjones.micro.blog/2017/03/20/sipapu-bridge-is-one-of/",
 				
 				"content_html": "<p>Sipapu Bridge is one of the largest natural bridges in the world. One of the centerpieces of Natural Bridges National Monument in southern Utah, the natural bridge features a memorable hike to its base—complete with two ladders and steps carved into the sandstone. Its name refers to an &ldquo;emergence hole&rdquo; in Puebloan culture. I named my dog after a sipapu when we rescued him from the desert near the Arizona-Utah border.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sipapu Bridge is one of the largest natural bridges in the world. One of the centerpieces of Natural Bridges National Monument in southern Utah, the natural bridge features a memorable hike to its base—complete with two ladders and steps carved into the sandstone. Its name refers to an \"emergence hole\" in Puebloan culture. I named my dog after a sipapu when we rescued him from the desert near the Arizona-Utah border.\n\n<img src=\"uploads/2025/0f227a23b1.jpg\">\n",
+				"content_text": "Sipapu Bridge is one of the largest natural bridges in the world. One of the centerpieces of Natural Bridges National Monument in southern Utah, the natural bridge features a memorable hike to its base—complete with two ladders and steps carved into the sandstone. Its name refers to an \"emergence hole\" in Puebloan culture. I named my dog after a sipapu when we rescued him from the desert near the Arizona-Utah border.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/0f227a23b1.jpg\">\n",
 				"date_published": "2017-03-20T06:23:05-07:00",
 				"url": "https://rsjon.es/2017/03/20/sipapu-bridge-is-one-of/"
 			},
@@ -11508,7 +11550,7 @@
 				"id": "http://rscottjones.micro.blog/2017/03/08/not-surprisingly-the-hike-to/",
 				
 				"content_html": "<p>Not surprisingly, the hike to the highest point in Missouri, Taum Sauk Mountain, is not exactly what you&rsquo;d call daunting—even in a gentle rainstorm. Nonetheless, I enjoyed marking it off my quest to visit the <a href=\"http://rscottjones.com/quests/high-points-of-flat-states/\">High Points of Otherwise Flat States</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not surprisingly, the hike to the highest point in Missouri, Taum Sauk Mountain, is not exactly what you'd call daunting—even in a gentle rainstorm. Nonetheless, I enjoyed marking it off my quest to visit the [High Points of Otherwise Flat States](http://rscottjones.com/quests/high-points-of-flat-states/).\n\n<img src=\"uploads/2025/af2b834688.jpg\">\n",
+				"content_text": "Not surprisingly, the hike to the highest point in Missouri, Taum Sauk Mountain, is not exactly what you'd call daunting—even in a gentle rainstorm. Nonetheless, I enjoyed marking it off my quest to visit the [High Points of Otherwise Flat States](http://rscottjones.com/quests/high-points-of-flat-states/).\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/af2b834688.jpg\">\n",
 				"date_published": "2017-03-08T13:24:49-07:00",
 				"url": "https://rsjon.es/2017/03/08/not-surprisingly-the-hike-to/"
 			},
@@ -11684,7 +11726,7 @@
 				"id": "http://rscottjones.micro.blog/2017/02/14/trail-beers-are-among-the/",
 				
 				"content_html": "<p>Trail beers are among the best beers. On Friday, I brought a couple friends on their first trip to Peralta Canyon in the Superstition Mountains Wilderness to enjoy the magnificent view of Weavers Needle. We found a great spot to enjoy my imperial red ipa from Dark Sky Brewing in Flagstaff, specially brewed to support the campaign to designate Grand Canyon Heritage National Monument.\nThe proposal would ensure that the Grand Canyon watershed isn&rsquo;t polluted by uranium mining, that the last remaining old growth ponderosa pine forest in the Southwest isn&rsquo;t over-logged, and that thousands of cultural resources are protected—not to mention countless recreational opportunities.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trail beers are among the best beers. On Friday, I brought a couple friends on their first trip to Peralta Canyon in the Superstition Mountains Wilderness to enjoy the magnificent view of Weavers Needle. We found a great spot to enjoy my imperial red ipa from Dark Sky Brewing in Flagstaff, specially brewed to support the campaign to designate Grand Canyon Heritage National Monument. \nThe proposal would ensure that the Grand Canyon watershed isn't polluted by uranium mining, that the last remaining old growth ponderosa pine forest in the Southwest isn't over-logged, and that thousands of cultural resources are protected—not to mention countless recreational opportunities.\n\n\n<img src=\"uploads/2025/b48aa910c0.jpg\">\n",
+				"content_text": "Trail beers are among the best beers. On Friday, I brought a couple friends on their first trip to Peralta Canyon in the Superstition Mountains Wilderness to enjoy the magnificent view of Weavers Needle. We found a great spot to enjoy my imperial red ipa from Dark Sky Brewing in Flagstaff, specially brewed to support the campaign to designate Grand Canyon Heritage National Monument. \nThe proposal would ensure that the Grand Canyon watershed isn't polluted by uranium mining, that the last remaining old growth ponderosa pine forest in the Southwest isn't over-logged, and that thousands of cultural resources are protected—not to mention countless recreational opportunities.\n\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/b48aa910c0.jpg\">\n",
 				"date_published": "2017-02-14T08:52:03-07:00",
 				"url": "https://rsjon.es/2017/02/14/trail-beers-are-among-the/"
 			},
@@ -12059,8 +12101,8 @@
 			{
 				"id": "http://rscottjones.micro.blog/2016/12/27/marked-off-my-th-nationalpark/",
 				
-				"content_html": "<p>Marked off my 367th #NationalPark unit todayâHonouliuli National Monument! This one&rsquo;s a bit hard to get to (for now) #SJHawaii #FindYourPark</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Marked off my 367th #NationalPark unit todayâHonouliuli National Monument! This one's a bit hard to get to (for now) #SJHawaii #FindYourPark\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/e753d2d322.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Marked off my 367th #NationalPark unit today—Honouliuli National Monument! This one&rsquo;s a bit hard to get to (for now) #SJHawaii</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Marked off my 367th #NationalPark unit today—Honouliuli National Monument! This one's a bit hard to get to (for now) #SJHawaii\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/e753d2d322.jpg\">\n",
 				"date_published": "2016-12-27T15:28:05-07:00",
 				"url": "https://rsjon.es/2016/12/27/marked-off-my-th-nationalpark/"
 			},
@@ -12187,8 +12229,8 @@
 			{
 				"id": "http://rscottjones.micro.blog/2016/12/22/rusty-barbed-wire-from-the/",
 				
-				"content_html": "<p>Rusty barbed wire from the remnants of Butte Campâa WWII &ldquo;War Relocation Center,&rdquo; aka Japanese internment campâlocated south of Phoenix. #neverforget #GilaRiver #racism</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rusty barbed wire from the remnants of Butte Campâa WWII \"War Relocation Center,\" aka Japanese internment campâlocated south of Phoenix. #neverforget #GilaRiver #racism\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/b83aadd424.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Rusty barbed wire from the remnants of Butte Camp—a WWII &ldquo;War Relocation Center,&rdquo; aka Japanese internment camp—located south of Phoenix.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Rusty barbed wire from the remnants of Butte Camp—a WWII \"War Relocation Center,\" aka Japanese internment camp—located south of Phoenix.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/b83aadd424.jpg\">\n",
 				"date_published": "2016-12-22T05:43:58-07:00",
 				"url": "https://rsjon.es/2016/12/22/rusty-barbed-wire-from-the/"
 			},
@@ -13115,8 +13157,8 @@
 			{
 				"id": "http://rscottjones.micro.blog/2015/08/30/some-truly-amazing-monsoon-clouds/",
 				
-				"content_html": "<p>Some truly amazing monsoon clouds up here near Williams. Too bad I was driving and couldn&rsquo;t adequately capture themâif such a thing is possible with a camera.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some truly amazing monsoon clouds up here near Williams. Too bad I was driving and couldn't adequately capture themâif such a thing is possible with a camera.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/5d7a6f64fe.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Some truly amazing monsoon clouds up here near Williams. Too bad I was driving and couldn&rsquo;t adequately capture them—if such a thing is possible with a camera.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Some truly amazing monsoon clouds up here near Williams. Too bad I was driving and couldn't adequately capture them—if such a thing is possible with a camera.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/5d7a6f64fe.jpg\">\n",
 				"date_published": "2015-08-30T19:29:15-07:00",
 				"url": "https://rsjon.es/2015/08/30/some-truly-amazing-monsoon-clouds/"
 			},
@@ -13795,8 +13837,8 @@
 			{
 				"id": "http://rscottjones.micro.blog/2015/04/24/the-saguaros-have-started-to/",
 				
-				"content_html": "<p>The saguaros have started to bloom. Flowers open at night and close the following afternoonâa short window for pollination.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The saguaros have started to bloom. Flowers open at night and close the following afternoonâa short window for pollination.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/f18f94164f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>The saguaros have started to bloom. Flowers open at night and close the following afternoon—a short window for pollination.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The saguaros have started to bloom. Flowers open at night and close the following afternoon—a short window for pollination.\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/f18f94164f.jpg\">\n",
 				"date_published": "2015-04-24T02:15:49-07:00",
 				"url": "https://rsjon.es/2015/04/24/the-saguaros-have-started-to/"
 			},
@@ -14755,8 +14797,8 @@
 			{
 				"id": "http://rscottjones.micro.blog/2015/01/18/hey-watch-the-lightthis-is/",
 				
-				"content_html": "<p>Hey, watch the lightâthis is supposed to be a night hike!! #MonumentalSoCalWeekend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hey, watch the lightâthis is supposed to be a night hike!! #MonumentalSoCalWeekend\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/378c0c860d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Hey, watch the light—this is supposed to be a night hike!! #MonumentalSoCalWeekend</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hey, watch the light—this is supposed to be a night hike!! #MonumentalSoCalWeekend\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/378c0c860d.jpg\">\n",
 				"date_published": "2015-01-18T21:15:32-07:00",
 				"url": "https://rsjon.es/2015/01/18/hey-watch-the-lightthis-is/"
 			},
