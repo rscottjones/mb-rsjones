@@ -25,6 +25,57 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://rsjon.es/2026/02/01/one-sort-of-stupidly-obvious/" class="u-url"><time class="dt-published" datetime="2026-02-01 10:43:11 -0700">Feb 1, 2026</time></a>
+
+		<div class="e-content">
+			 <p>One sort of <em>stupidly obvious</em> change we made due to the covid pandemic: when my wife or I starts feeling like we might be getting a cold, we promptly sleep in different bedrooms for the night, just as we had quarantined during covid infections. It’s amazing how much that can help ward off illness.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://rsjon.es/2026/01/31/fixing-pin-locations-using-microblog/">Fixing pin locations using Microblog Map with the mnml theme</a></h1>
+		
+
+		<a href="https://rsjon.es/2026/01/31/fixing-pin-locations-using-microblog/" class="u-url"><time class="dt-published" datetime="2026-01-31 12:35:52 -0700">Jan 31, 2026</time></a>
+
+		<div class="e-content">
+			 <p>I wanted to share a solution I found for some misbehaving map pins when using the fun <a href="https://github.com/vladcampos/microblog-map">Micro.blog Map</a> &ldquo;plugin&rdquo; that Vlad Campos put together in conjunction with the excellent <a href="https://github.com/jimmitchell/mnml">mnml theme</a> by Jim Mitchell.</p>
+<p>🗺️ <a href="https://adventuresaroundthe.world/map/">Here&rsquo;s my map</a>, btw.</p>
+<p>The problem I was having is that the map pins, on initial load (zoom level 2, showing the entire globe), would be misplaced to the north by a certain distance, consistently across the map. As you zoomed in more and more, however, the pins would migrate closer and closer to the correct location. It seemed to be a conflict with the mnml theme in particular, as it seemed to work fine in Tiny theme.</p>
+<p>I don&rsquo;t understand any of this, but with <em>a whole lot</em> of back-and-forth of unsuccessful but extremely confident answers (seriously, I&rsquo;ve spent at least 5 hours on this) with both ChatGPT and Claude, I finally arrived at a working solution.</p>
+<p>Add this to your custom CSS:</p>
+<pre tabindex="0"><code>/* Fix Leaflet markers - override MNML's article img styles */
+article .leaflet-container img,
+.leaflet-container img {
+  max-width: none !important;
+  width: auto !important;
+  border-radius: 0 !important;
+  display: block !important;
+}
+
+article .leaflet-marker-icon,
+article .leaflet-marker-shadow,
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+  max-width: none !important;
+  margin: -41px 0 0 -12px !important;
+}
+
+article .leaflet-tile,
+.leaflet-tile {
+  margin: 0 !important;
+  max-width: none !important;
+}
+</code></pre><p>&hellip;and <em>voila!</em> The pins should display correctly right from the get-go.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://rsjon.es/2026/01/27/oliver-burkeman-has-a-proposal/" class="u-url"><time class="dt-published" datetime="2026-01-27 19:36:11 -0700">Jan 27, 2026</time></a>
 
 		<div class="e-content">
@@ -22605,10 +22656,23 @@ I love our National Parks, but there&rsquo;s just as much to love in our Nationa
 	  <div class="h-entry">
 		
 
+		<a href="https://rsjon.es/2016/01/31/finally-made-it-to-the/" class="u-url"><time class="dt-published" datetime="2016-01-31 16:40:00 -0700">Jan 31, 2016</time></a>
+
+		<div class="e-content">
+			 <p>Finally made it to the last place listed in the world atlas.
+— with Jen Jones in Zzyzx, CA #fb</p>
+<p><img src="https://rsjon.es/uploads/2026/468855098-10162722038028420-5548372595147383222-n.jpg" alt=""></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://rsjon.es/2016/01/31/just-checking-off-my-st/" class="u-url"><time class="dt-published" datetime="2016-01-31 12:30:00 -0700">Jan 31, 2016</time></a>
 
 		<div class="e-content">
-			 <p><img src="https://rsjon.es/uploads/2026/469002396-10162722573303420-4421055543745163240-n.jpg" alt="">
+			 <p><img src="https://cdn.uploads.micro.blog/7480/2026/469002396-10162722573303420-4421055543745163240-n.jpg" alt="">
 Just checking off my 281st National Park unit, the recently designated Tule Springs Fossil Beds National Monument just north of Vegas. #fb</p>
 
 		</div>
@@ -25551,7 +25615,7 @@ View the #sunset from the peak of an Arizona wilderness area with #mypubliclands
 		<a href="https://rsjon.es/2015/01/31/asu-over-ua-gotta-love/" class="u-url"><time class="dt-published" datetime="2015-01-31 10:01:52 -0700">Jan 31, 2015</time></a>
 
 		<div class="e-content">
-			 <p>7-0 ASU over UA. Gotta love a good spanning of the bad guys from down south. #GoDevils</p>
+			 <p>7-0 ASU over UA. Gotta love a good spanking of the bad guys from down south. #GoDevils</p>
 <!-- raw HTML omitted -->
 
 		</div>

@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://rscottjones.micro.blog/2026/02/01/one-sort-of-stupidly-obvious/",
+				
+				"content_html": "<p>One sort of <em>stupidly obvious</em> change we made due to the covid pandemic: when my wife or I starts feeling like we might be getting a cold, we promptly sleep in different bedrooms for the night, just as we had quarantined during covid infections. It’s amazing how much that can help ward off illness.</p>\n",
+				"content_text": "One sort of _stupidly obvious_ change we made due to the covid pandemic: when my wife or I starts feeling like we might be getting a cold, we promptly sleep in different bedrooms for the night, just as we had quarantined during covid infections. It’s amazing how much that can help ward off illness.\n",
+				"date_published": "2026-02-01T10:43:11-07:00",
+				"url": "https://rsjon.es/2026/02/01/one-sort-of-stupidly-obvious/"
+			},
+			{
+				"id": "http://rscottjones.micro.blog/2026/01/31/fixing-pin-locations-using-microblog/",
+				"title": "Fixing pin locations using Microblog Map with the mnml theme",
+				"content_html": "<p>I wanted to share a solution I found for some misbehaving map pins when using the fun <a href=\"https://github.com/vladcampos/microblog-map\">Micro.blog Map</a> &ldquo;plugin&rdquo; that Vlad Campos put together in conjunction with the excellent <a href=\"https://github.com/jimmitchell/mnml\">mnml theme</a> by Jim Mitchell.</p>\n<p>🗺️ <a href=\"https://adventuresaroundthe.world/map/\">Here&rsquo;s my map</a>, btw.</p>\n<p>The problem I was having is that the map pins, on initial load (zoom level 2, showing the entire globe), would be misplaced to the north by a certain distance, consistently across the map. As you zoomed in more and more, however, the pins would migrate closer and closer to the correct location. It seemed to be a conflict with the mnml theme in particular, as it seemed to work fine in Tiny theme.</p>\n<p>I don&rsquo;t understand any of this, but with <em>a whole lot</em> of back-and-forth of unsuccessful but extremely confident answers (seriously, I&rsquo;ve spent at least 5 hours on this) with both ChatGPT and Claude, I finally arrived at a working solution.</p>\n<p>Add this to your custom CSS:</p>\n<pre tabindex=\"0\"><code>/* Fix Leaflet markers - override MNML's article img styles */\narticle .leaflet-container img,\n.leaflet-container img {\n  max-width: none !important;\n  width: auto !important;\n  border-radius: 0 !important;\n  display: block !important;\n}\n\narticle .leaflet-marker-icon,\narticle .leaflet-marker-shadow,\n.leaflet-marker-icon,\n.leaflet-marker-shadow {\n  max-width: none !important;\n  margin: -41px 0 0 -12px !important;\n}\n\narticle .leaflet-tile,\n.leaflet-tile {\n  margin: 0 !important;\n  max-width: none !important;\n}\n</code></pre><p>&hellip;and <em>voila!</em> The pins should display correctly right from the get-go.</p>\n",
+				"content_text": "I wanted to share a solution I found for some misbehaving map pins when using the fun [Micro.blog Map](https://github.com/vladcampos/microblog-map) \"plugin\" that Vlad Campos put together in conjunction with the excellent [mnml theme](https://github.com/jimmitchell/mnml) by Jim Mitchell.\n\n🗺️ [Here's my map](https://adventuresaroundthe.world/map/), btw.\n\nThe problem I was having is that the map pins, on initial load (zoom level 2, showing the entire globe), would be misplaced to the north by a certain distance, consistently across the map. As you zoomed in more and more, however, the pins would migrate closer and closer to the correct location. It seemed to be a conflict with the mnml theme in particular, as it seemed to work fine in Tiny theme.\n\nI don't understand any of this, but with _a whole lot_ of back-and-forth of unsuccessful but extremely confident answers (seriously, I've spent at least 5 hours on this) with both ChatGPT and Claude, I finally arrived at a working solution.\n\nAdd this to your custom CSS:\n\n```\n/* Fix Leaflet markers - override MNML's article img styles */\narticle .leaflet-container img,\n.leaflet-container img {\n  max-width: none !important;\n  width: auto !important;\n  border-radius: 0 !important;\n  display: block !important;\n}\n\narticle .leaflet-marker-icon,\narticle .leaflet-marker-shadow,\n.leaflet-marker-icon,\n.leaflet-marker-shadow {\n  max-width: none !important;\n  margin: -41px 0 0 -12px !important;\n}\n\narticle .leaflet-tile,\n.leaflet-tile {\n  margin: 0 !important;\n  max-width: none !important;\n}\n```\n\n...and _voila!_ The pins should display correctly right from the get-go.\n",
+				"date_published": "2026-01-31T12:35:52-07:00",
+				"url": "https://rsjon.es/2026/01/31/fixing-pin-locations-using-microblog/"
+			},
+			{
 				"id": "http://rscottjones.micro.blog/2026/01/27/oliver-burkeman-has-a-proposal/",
 				
 				"content_html": "<p>Oliver Burkeman has a proposal to make:</p>\n<blockquote>\n<p>2026 should be the year that you spend more time doing what you want. The new year should be the moment we commit to dedicating more of our finite hours on the planet to things we genuinely, deeply enjoy doing – to the activities that seize our interest, and that make us feel vibrantly alive. This should be the year you stop trying so hard to turn yourself into a better person, and focus instead on actually leading a more absorbing life.</p>\n</blockquote>\n<blockquote>\n<p>In the end, though, there is a consideration even more fundamental than any of these, which is that it’s not clear what life is really for at all, if it isn’t for doing more of whatever makes you feel most alive. It’s notoriously easy to slip into the unconscious assumption that any such aliveness is for later: after you’ve sorted your life out; after the current busy phase has passed; after the headlines have stopped being quite so alarming. But the truth for finite humans is that this, right here, is real life. And that if you’re going to do stuff that matters to you – and feel enjoyment or aliveness in doing it – you’re going to have to do it before you’ve got on top of everything, before you’ve solved your procrastination problem or your intimacy issues, before you feel confident that the future of democracy or the climate has been assured. This part of life isn’t just something you have to get through, to get to the bit that really counts. It is the part that really counts.</p>\n</blockquote>\n<p>Read the whole piece: <a href=\"https://www.theguardian.com/lifeandstyle/2026/jan/03/secret-being-happy-2026-simpler-than-you-think\">The secret to being happy in 2026? It’s far, far simpler than you think…</a></p>\n",
@@ -14127,10 +14143,18 @@
 				"url": "https://rsjon.es/2016/02/07/finally-made-it-to-the/"
 			},
 			{
+				"id": "http://rscottjones.micro.blog/2016/01/31/finally-made-it-to-the/",
+				
+				"content_html": "<p>Finally made it to the last place listed in the world atlas.\n— with Jen Jones in Zzyzx, CA #fb</p>\n<p><img src=\"https://rsjon.es/uploads/2026/468855098-10162722038028420-5548372595147383222-n.jpg\" alt=\"\"></p>\n",
+				"content_text": "Finally made it to the last place listed in the world atlas.\n— with Jen Jones in Zzyzx, CA #fb\n\n![](https://rsjon.es/uploads/2026/468855098-10162722038028420-5548372595147383222-n.jpg)\n",
+				"date_published": "2016-01-31T16:40:00-07:00",
+				"url": "https://rsjon.es/2016/01/31/finally-made-it-to-the/"
+			},
+			{
 				"id": "http://rscottjones.micro.blog/2016/01/31/just-checking-off-my-st/",
 				
-				"content_html": "<p><img src=\"https://rsjon.es/uploads/2026/469002396-10162722573303420-4421055543745163240-n.jpg\" alt=\"\">\nJust checking off my 281st National Park unit, the recently designated Tule Springs Fossil Beds National Monument just north of Vegas. #fb</p>\n",
-				"content_text": "![](https://rsjon.es/uploads/2026/469002396-10162722573303420-4421055543745163240-n.jpg)\nJust checking off my 281st National Park unit, the recently designated Tule Springs Fossil Beds National Monument just north of Vegas. #fb\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/7480/2026/469002396-10162722573303420-4421055543745163240-n.jpg\" alt=\"\">\nJust checking off my 281st National Park unit, the recently designated Tule Springs Fossil Beds National Monument just north of Vegas. #fb</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/7480/2026/469002396-10162722573303420-4421055543745163240-n.jpg)\nJust checking off my 281st National Park unit, the recently designated Tule Springs Fossil Beds National Monument just north of Vegas. #fb\n",
 				"date_published": "2016-01-31T12:30:00-07:00",
 				"url": "https://rsjon.es/2016/01/31/just-checking-off-my-st/"
 			},
@@ -16115,8 +16139,8 @@
 			{
 				"id": "http://rscottjones.micro.blog/2015/01/31/asu-over-ua-gotta-love/",
 				
-				"content_html": "<p>7-0 ASU over UA. Gotta love a good spanning of the bad guys from down south. #GoDevils</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "7-0 ASU over UA. Gotta love a good spanning of the bad guys from down south. #GoDevils\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2025/63fe1c119a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>7-0 ASU over UA. Gotta love a good spanking of the bad guys from down south. #GoDevils</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "7-0 ASU over UA. Gotta love a good spanking of the bad guys from down south. #GoDevils\n\n<img src=\"uploads/2025/63fe1c119a.jpg\">\n",
 				"date_published": "2015-01-31T10:01:52-07:00",
 				"url": "https://rsjon.es/2015/01/31/asu-over-ua-gotta-love/"
 			},
