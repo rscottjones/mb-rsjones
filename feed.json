@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rscottjones.micro.blog/2026/02/25/im-looking-for-some-microblog/",
+				
+				"content_html": "<p>I&rsquo;m looking for some Microblog testers for my <strong>new Maps plugin</strong> before I prep it for public release. It&rsquo;s self-contained and easily reversible if you don&rsquo;t like it or have any issues, and it should be theme-agnostic, too.</p>\n<p><a href=\"https://rscottjones.com/contact\">Send me a message</a> if you&rsquo;re interested.</p>\n<p><img src=\"https://rsjon.es/uploads/2026/screenshot-2026-02-25-at-10.43.44am.png\" alt=\"\"></p>\n",
+				"content_text": "I'm looking for some Microblog testers for my **new Maps plugin** before I prep it for public release. It's self-contained and easily reversible if you don't like it or have any issues, and it should be theme-agnostic, too.\n\n[Send me a message](https://rscottjones.com/contact) if you're interested.\n\n![](https://rsjon.es/uploads/2026/screenshot-2026-02-25-at-10.43.44am.png)\n",
+				"date_published": "2026-02-25T10:37:54-07:00",
+				"url": "https://rsjon.es/2026/02/25/im-looking-for-some-microblog/"
+			},
+			{
 				"id": "http://rscottjones.micro.blog/2026/02/24/welp-i-had-to-cancel/",
 				
 				"content_html": "<p>Welp, I had to cancel my participation in this week&rsquo;s Miami trip this morning, just prior to heading to the airport. Bummer.</p>\n<p>So here&rsquo;s a shot of the curving pedestrian walkway leading up the lookout tower at Shark Valley in Everglades National Park, where we would have been this weekend.</p>\n<!-- raw HTML omitted -->\n",
@@ -44,7 +52,7 @@
 				"id": "http://rscottjones.micro.blog/2026/02/22/im-finally-updating-my-travel/",
 				
 				"content_html": "<p>I’m finally updating <a href=\"https://rscottjones.com/quests/\">my travel quests</a> after our last trip.</p>\n<p>I managed to add two countries to <a href=\"https://rscottjones.com/quests/50by50/\">my overall life total</a>, <em>and</em> to my <a href=\"https://rscottjones.com/quests/national-parks-countries/\">National Parks in 50 Countries quest</a>, but missed out on adding to any other quests (for instance, we made it to <a href=\"https://rscottjones.com/quests/irish-pubs-quest/\">an Irish Pub</a>, but <a href=\"https://adventuresaroundthe.world/2026/01/23/today-sorta-sucked-but-at/\">they were inexplicably out of Guinness</a>).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m finally updating [my travel quests](https://rscottjones.com/quests/) after our last trip.\n\nI managed to add two countries to [my overall life total](https://rscottjones.com/quests/50by50/), _and_ to my [National Parks in 50 Countries quest](https://rscottjones.com/quests/national-parks-countries/), but missed out on adding to any other quests (for instance, we made it to [an Irish Pub](https://rscottjones.com/quests/irish-pubs-quest/), but [they were inexplicably out of Guinness](https://adventuresaroundthe.world/2026/01/23/today-sorta-sucked-but-at/)).\n\n<img src=\"uploads/2026/ff5615beb6.jpg\" width=\"600\" height=\"325\" alt=\"\">\n",
+				"content_text": "I’m finally updating [my travel quests](https://rscottjones.com/quests/) after our last trip.\n\nI managed to add two countries to [my overall life total](https://rscottjones.com/quests/50by50/), _and_ to my [National Parks in 50 Countries quest](https://rscottjones.com/quests/national-parks-countries/), but missed out on adding to any other quests (for instance, we made it to [an Irish Pub](https://rscottjones.com/quests/irish-pubs-quest/), but [they were inexplicably out of Guinness](https://adventuresaroundthe.world/2026/01/23/today-sorta-sucked-but-at/)).\n\n<img src=\"https://cdn.uploads.micro.blog/7480/2026/ff5615beb6.jpg\" width=\"600\" height=\"325\" alt=\"\">\n",
 				"date_published": "2026-02-22T12:09:23-07:00",
 				"url": "https://rsjon.es/2026/02/22/im-finally-updating-my-travel/"
 			},
